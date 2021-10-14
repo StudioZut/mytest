@@ -1,3 +1,3 @@
 # mytest
-A test repo
+A test repository
 One more line
